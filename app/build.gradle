@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.webviewapp'
+    namespace 'com.fable.webview'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.webviewapp"
+        applicationId "com.fable.webview"
         minSdk 24
         targetSdk 34
         versionCode 1
